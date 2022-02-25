@@ -4,3 +4,4 @@
 
 ### npm init -y
 ### npm i -D parcel-bundler
+### package.json "script" 부분 수정 
